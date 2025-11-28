@@ -2,9 +2,13 @@ This repository is created to track and showcase my progress in mastering Dynami
 
 Here, you'll find:
 -🧩 Solutions to classic DP problems
+
 -🐍 Python implementations
+
 -☕ Java implementations
+
 -📝 Notes, comments, and optimized approaches
+
 -🛠 Clean and beginner-friendly explanations inside code
 
 Each file generally includes:
